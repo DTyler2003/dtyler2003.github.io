@@ -14,8 +14,8 @@
     background-size:    cover;                      
     background-repeat:  no-repeat;
     background-position: center center;
-    background-color:   #D8D8D8;
-    color:              #A9A9A9;
+    background-color:   #000000;
+    color:              #510000;
     min-height:         500px;
   /*  opacity:            .5;*/
   }
@@ -23,7 +23,22 @@
   .scrum_h1 {
   /*  background-color:   #D3D3D3;*/
     color:              #FFF;
-    text-shadow:        -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
   /*  opacity:            1;*/
+  }
+  
+  p, h1, h2, h3 {color:white;}
+
+  #topthing {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;}
+
+  .top-bar {
+    background-color: #330000;
+  }
+
+  body {
+    background-color: #510000;
   }
   
