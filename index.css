@@ -42,10 +42,12 @@
     background-image: url("pictures/back_index.jpg");
     font-family: 'Comic Neue', sans-serif;
     font-size: 17px;
+    text-shadow: 1px 1px 2px black;
   }
 
   h2, h3 {
     font-family: 'Open Sans', sans-serif;
+    text-shadow: 1px 1px 2px black;
   }
 
   a {
@@ -60,6 +62,7 @@
 
   #epicgifs {
     font-family: 'Playpen Sans', sans-serif;
+    text-shadow: 1px 1px 2px black;
   }
 
   .epicgifs {
@@ -71,3 +74,4 @@
     width: 1024px;
     height: 550px;
   }
+  
