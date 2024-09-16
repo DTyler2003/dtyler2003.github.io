@@ -39,7 +39,7 @@
   }
 
   body {
-    background-color: #510000;
+    background-image: url("pictures/back_index.jpg");
     font-family: 'Comic Neue', sans-serif;
     font-size: 17px;
   }
@@ -60,4 +60,14 @@
 
   #epicgifs {
     font-family: 'Playpen Sans', sans-serif;
+  }
+
+  .epicgifs {
+    width: 1024px;
+    height: 400px;
+  }
+
+  .epicgifs2 {
+    width: 1024px;
+    height: 550px;
   }

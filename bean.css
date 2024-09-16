@@ -1,0 +1,8 @@
+body {
+    background-image: url("pictures/back_bean.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+  p, h1, h2, h3 {color:white;}
