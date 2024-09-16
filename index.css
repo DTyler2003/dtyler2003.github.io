@@ -40,4 +40,24 @@
 
   body {
     background-color: #510000;
+    font-family: 'Comic Neue', sans-serif;
+    font-size: 17px;
+  }
+
+  h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  a {
+    color: aqua;
+    font-weight: bold;
+  }
+
+  #riddlethree {
+    color: lawngreen;
+    font-weight: bold;
+  }
+
+  #epicgifs {
+    font-family: 'Playpen Sans', sans-serif;
   }
