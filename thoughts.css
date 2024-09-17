@@ -6,3 +6,28 @@ body {
   }
 
   p, h1, h2, h3 {color:white;}
+
+  .backbutton {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 32px;
+    color: palegreen;
+    font-weight: bolder;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: palegreen;
+  }
+
+  .backbutton:hover {
+    color:palegreen;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: forestgreen;
+  }
+
+  .mainheader {
+    text-align: center;
+    color:white;
+    font-size: 100px;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: black;
+    text-transform: uppercase;
+    font-weight: bolder;
+  }

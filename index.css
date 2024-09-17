@@ -32,7 +32,8 @@
 
   #topthing {
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: white;}
+    -webkit-text-stroke-color: white;
+  }
 
   .top-bar {
     background-color: #330000;
